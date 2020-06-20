@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GeralBackEnd": {
+      "commandName": "Project"
+    },
+    "Aula1": {
+      "commandName": "Executable"
+    }
+  }
+}
