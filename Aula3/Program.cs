@@ -6,7 +6,13 @@ namespace Aula3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string[] frutas = new string[3] { " Manga ", " Maçã ", " Mamão " };            
+
+            Console.WriteLine(" A segunda fruta é a: " + frutas[1]);
+            Console.WriteLine();
+
+            Console.WriteLine(" Aperte qualquer tecla para sair! ");
+            Console.WriteLine();
         }
     }
 }
